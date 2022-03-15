@@ -89,7 +89,6 @@
 @media (max-width: 425px) {
   /* header */
   header {
-    height: 300px;
     width: 100%;
   }
   header .intro h3 {
